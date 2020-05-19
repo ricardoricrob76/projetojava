@@ -1,0 +1,28 @@
+10
+
+dir
+1
+svn+ssh://10.11.0.74/var/local/myProject/ProjetoDesktopClassificados
+svn+ssh://10.11.0.74/var/local/myProject
+
+
+
+2011-02-25T18:33:47.690469Z
+1
+ricrob
+has-props
+has-prop-mods
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+incomplete
+869ec020-6f7d-4240-8cd4-7556e074ac9f
+
